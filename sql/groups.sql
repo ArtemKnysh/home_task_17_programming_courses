@@ -1,0 +1,2 @@
+INSERT INTO public.groups (end_eduction, name, start_eduction, course_id) VALUES ('2020-05-01', 'Group 1', '2020-06-15', 2);
+INSERT INTO public.groups (end_eduction, name, start_eduction, course_id) VALUES ('2020-06-01', 'Group 2', '2020-07-15', 3);

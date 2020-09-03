@@ -1,0 +1,2 @@
+INSERT INTO public.teachers (birthday, first_name, last_name) VALUES ('1991-09-10', 'Brett ', 'Owen');
+INSERT INTO public.teachers (birthday, first_name, last_name) VALUES ('1989-06-21', 'Ciara ', 'John');
